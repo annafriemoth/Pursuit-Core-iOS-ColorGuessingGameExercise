@@ -23,7 +23,7 @@
                                     <color key="titleColor" red="0.73380406899999995" green="1" blue="0.75859757049999998" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </state>
                                 <connections>
-                                    <action selector="red:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nzV-e4-bDX"/>
+                                    <action selector="buttons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nzV-e4-bDX"/>
                                 </connections>
                             </button>
                             <button opaque="NO" tag="1" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3ND-ad-Voj">
@@ -34,7 +34,7 @@
                                     <color key="titleColor" red="0.73380406899999995" green="1" blue="0.75859757049999998" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </state>
                                 <connections>
-                                    <action selector="green:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xub-jD-ySo"/>
+                                    <action selector="buttons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FrG-Gs-ws4"/>
                                 </connections>
                             </button>
                             <button opaque="NO" tag="2" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bGJ-ka-8CD">
@@ -45,7 +45,7 @@
                                     <color key="titleColor" red="0.73380406899999995" green="1" blue="0.75859757049999998" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </state>
                                 <connections>
-                                    <action selector="blue:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fFH-Fu-Tgg"/>
+                                    <action selector="buttons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ddZ-hu-yyN"/>
                                 </connections>
                             </button>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="xbk-F3-Axk">
